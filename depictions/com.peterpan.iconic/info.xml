@@ -12,27 +12,26 @@
 	</dependencies>
 	<descriptionlist>
 		<description>A beautiful colored gradient and transparent theme with over 700 icons.</description>
-		<description>It has more description lines.</description>
+		<description>.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>HomeScreen</description>
+			<image>Cydia.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Most Used</description>
+			<image>Shot1.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change></change>
+		<change></change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>
