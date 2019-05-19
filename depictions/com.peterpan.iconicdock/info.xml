@@ -1,0 +1,43 @@
+<package>
+	<id>com.peterpan.iconicdock</id>
+	<name>Iconic Dock</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A Dock in the same theme as my Iconic Theme.</description>
+		<description>.</description>
+		<description><![CDATA[
+		.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>HomeScreen</description>
+			<image>Cydia.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Dock</description>
+			<image>Shot1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change></change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url></url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

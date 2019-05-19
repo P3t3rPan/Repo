@@ -1,23 +1,43 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.peterpan.blacklit</id>
+	<name>Blacklit</name>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>BlackLit  a nice glowing theme with Tilted icons.</description>
+		<description>.</description>
+		<description><![CDATA[
+		.
+		]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>HomeScreen</description>
+			<image>Cydia.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Most Used</description>
+			<image>Shot1.png</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change></change>
+		<change></change>
+		<change></change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/ba4kw6/release_blacklit_a_beautiful_styled_white_glowing/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>

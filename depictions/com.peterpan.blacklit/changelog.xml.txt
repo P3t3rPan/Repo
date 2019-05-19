@@ -1,0 +1,16 @@
+<changelog>
+	<changes>
+		<version>2.2</version>
+		<change>Added Sileo icon
+
+Added a borderless theme as some requested to remove the white edge
+
+</change>
+		<change></change>
+		<change></change>
+	</changes>
+	<changes>
+		<version>1.0.0-1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

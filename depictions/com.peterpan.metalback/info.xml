@@ -1,0 +1,43 @@
+<package>
+	<id>com.peterpan.metalback</id>
+	<name>MetalBack</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A beautiful Metallic theme with clear icons.</description>
+		<description>.</description>
+		<description><![CDATA[
+		.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>HomeScreen</description>
+			<image>Cydia.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Banner</description>
+			<image>Shot1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change></change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/iOSthemes/comments/bq60sm/release_metalback_a_beautifull_metallic_theme/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
