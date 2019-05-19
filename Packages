@@ -1,0 +1,172 @@
+Package: com.yourepo.peterpan.blacklit
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.blacklit.deb
+Size: 55069368
+MD5sum: c38c6c6a817b92fe9f5d76b3ee381517
+SHA1: 64d62996b3d80d9cd37763ceea52d3807d0abe76
+SHA256: 8f37c1cd0149fa32585241dd483d5eb113bc50bc4eb6e3c6992b54a7dea44da7
+Section: Themes
+Description: BlackLit  a nice glowing theme with Tilted icons
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/Blacklit.theme/IconBundles/com.peterpan.blacklit-large.png
+Name: BlackLit
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.chromatic
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.chromatic.deb
+Size: 40080146
+MD5sum: 211221445d5e619aad528393ed96fe1d
+SHA1: 078800b7859871fc919cacf3df7d611613e92296
+SHA256: c399b7ecbd02b281528eff0fa448bf34a9c228a9d94973326289eadd0b136547
+Section: Themes
+Description: Chromatic a Chrome plated icon theme
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/Chromatic.theme/IconBundles/com.amazon.CloudDrivePhotos-large.png
+Name: Chromatic
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.classicdot
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.graphite.deb
+Size: 2737714
+MD5sum: 1ec781677d4d6b9d1457076db1072207
+SHA1: 6b7a33edc9f1dc352142423763d26ffcc075b6f1
+SHA256: cb5cf3286c3338d8eae031a7814718b2be7070c62f778c212adaa1df0099e1ca
+Section: Themes
+Description: A beautiful dark theme with glowing icons
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/graphite.theme/IconBundles/com.apple.AppStore-large.png
+Name: Graphite
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.iconic
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.iconic.deb
+Size: 34417924
+MD5sum: ea144722696d8002d80308c0845a1b91
+SHA1: 24bc6a5ed233031d0b2ce7abb2a70e8ee6a3923c
+SHA256: e71e5c6d57b8b74d90f9fa65b8c2e43a5ba5bde66cfe59c45d2797c0e004f8ab
+Section: Themes
+Description: A Beatifull colored gradient icon theme
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/Iconic.theme/IconBundles/com.peterpan.iconic-large.png
+Name: Iconic
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.iconicdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.iconicdock.deb
+Size: 36406
+MD5sum: 2ffc4a928615eaed9423e4fe4fd8e4d1
+SHA1: 2c9eeaf965521bcaa529cb04a172f3b920dacf4b
+SHA256: 54adac292a08cd28b1b6191606318fc3e4a889626dc2002d89a004c3deaaf76d
+Section: Docks
+Description: A Dock in the same theme as my Iconic Theme
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/Iconic.theme/IconBundles/com.iconic.peterpan-large.png
+Name: Iconic Dock
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.lego
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.lego.deb
+Size: 2926388
+MD5sum: fcb8a365ef4a17ac2ea103dda2378b98
+SHA1: 510f2d8f0d0f0c8dc7cb8c9e2b5990c95c283ab5
+SHA256: a3cd666468feb8c601263679a01ef44916fe3207fdfd0838f76a96fad966e067
+Section: Themes
+Description: Lego Theme with stock icons looking like lego + Xeon Lego
+Author: Peter Pan <mike130784@gmail.com>
+Icon: File//Library/Themes/Lego.theme/IconBundles/com.apple.mobilephone-large.png
+Name: Lego
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.longhorndock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.longhorndock.deb
+Size: 11698
+MD5sum: abbea13974ec00d180f3f10158e9cf62
+SHA1: 6e00ed7ffbd7c84763556615ae589043bce93883
+SHA256: d2b783527ebff0557e1e697b979daf09c2a0780c895448b9b7872a89415548fe
+Section: Docks
+Description: A Green Glassy Dock on request for dotnick
+Author: Peter Pan <mike130784@gmail.com>
+Name: Longhorn Dock
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.mavericksdock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.maverickdock.deb
+Size: 149176
+MD5sum: 7b9fb72f48ec31e0257bf6c8b77b6958
+SHA1: 2e1d9a66e2e0ed3fc8bf77b6f961466b2bfa0176
+SHA256: e6180e07065741538ff86178353e1a49015fdc4c46b42840ec965456aad2de74
+Section: Docks
+Description: A macOS Mavericks lookalike Dock theme  for Luke
+Author: Peter Pan <mike130784@gmail.com>
+Name: Maverick Dock
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.metalback
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.metalback.deb
+Size: 3011402
+MD5sum: 5df8adacb584dfc1e791b3f0f435c994
+SHA1: e9b6a7d45c8730c3b6be719d61586d12ad94d2f1
+SHA256: fdd3708f3e4cee4f360abac4975c834578db692b234005856e245479d28713a2
+Section: Themes
+Description: A beautiful Metallic theme with clear icons
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/metalback.theme/IconBundles/com.apple.AppStore-large.png
+Name: MetalBack
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.supremeneonglow
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.supremeneonglow.deb
+Size: 26596
+MD5sum: 66b9713d0490d974cf52ac1f4f75a072
+SHA1: 927038f1ae92c1664828588ffbce1f7974a0e5e4
+SHA256: 655a61ab983da2e5f69897f1ea0e2ba5a770037589c379ee0395434fa7aecf61
+Section: Xeon
+Description: alters the carrier on your homescreen (use with tweak Xeon)
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Zeppelin/Supreme Neon Glow/black@2x.png
+Name: Supreme Neon Glow
+Depiction: https://depictions.carsuki.club/ddlc-ios/
+
+Package: com.yourepo.peterpan.tonisdock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debs/com.peterpan.tonisdock.deb
+Size: 19436
+MD5sum: 61878128d7b820a28c1877baf0c3f66c
+SHA1: 931dc2223dfd3ca139eda8232b8e2b55587a404e
+SHA256: d7e10d0ee9c0e3f02143b6f294fe4686fa7f1004ade23519dc023f8435eb67ad
+Section: Docks
+Description: A android like Dock theme  (TesT) For testing purposes
+Author: Peter Pan <mike130784@gmail.com>
+Name: Tonis Dock
+Depiction: https://depictions.carsuki.club/ddlc-ios/
